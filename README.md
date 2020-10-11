@@ -1,2 +1,2 @@
-# todo-list
-todo list web app
+# my first site
+my first web app
