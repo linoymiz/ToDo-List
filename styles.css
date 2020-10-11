@@ -1,0 +1,19 @@
+img {
+  width: 100%;
+  height: auto;
+}
+thead th{
+  color: #FFE4C4;
+  font-style: italic;
+  background-color: BlueViolet;
+}
+tbody tr:nth-child(odd) {
+  background-color: #ff33cc;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #e495e4;
+}
+.spacing{
+  width: 200px;
+}
