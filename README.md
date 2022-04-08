@@ -1,3 +1,3 @@
-# my first site
-my first web app
-practicing Udemy course.
+# ToDO List
+web app to manage youur daily tasks
+[practicing a Udemy course]
